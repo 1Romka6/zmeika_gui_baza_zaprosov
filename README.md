@@ -15,7 +15,7 @@
 
 ```
 git clone https://github.com/1Romka6/zmeika_gui_baza_zaprosov
-cd image_processor
+cd zmeika_gui_baza_zaprosov
 ```
 ## Установка и запуск
 1. Установите зависимости:
