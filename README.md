@@ -12,6 +12,11 @@
 - Сохранение в Excel
 - Автосохранение изменений при выходе
 
+
+```
+git clone https://github.com/1Romka6/image_processor
+cd image_processor
+```
 ## Установка и запуск
 1. Установите зависимости:
 ```
