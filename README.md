@@ -14,7 +14,7 @@
 
 
 ```
-git clone https://github.com/1Romka6/image_processor
+git clone https://github.com/1Romka6/zmeika_gui_baza_zaprosov
 cd image_processor
 ```
 ## Установка и запуск
